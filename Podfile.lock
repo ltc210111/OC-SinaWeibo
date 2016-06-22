@@ -1,0 +1,54 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - FVCustomAlertView (0.2)
+  - HYBNetworking (2.0.1):
+    - AFNetworking (~> 3.0.4)
+  - JSONModel (1.2.0)
+  - Masonry (1.0.0)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.0)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - FMDB (~> 2.5)
+  - FVCustomAlertView (= 0.2)
+  - HYBNetworking (~> 2.0.0)
+  - JSONModel (~> 1.2.0)
+  - Masonry (~> 1.0.0)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.0)
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  FVCustomAlertView: 37f44d9e06264222ed824c5ed9350fda0dafcc90
+  HYBNetworking: cb4d4bbe247f69dad3cc1a01eb5df69e01976ac6
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: 74d663a8dede9bb8341f9d398c18a1ea89faf871
+
+COCOAPODS: 1.0.0
